@@ -1,0 +1,4 @@
+com\money_converter\controller\CurrencyController.class
+com\money_converter\entity\Currency.class
+com\money_converter\MoneyConverterApplication.class
+com\money_converter\service\CurrencyService.class
